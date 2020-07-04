@@ -1,5 +1,5 @@
 # limbo
 
-An amazing social network app
+An amazing social media app
 
 
